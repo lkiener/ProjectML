@@ -3,7 +3,8 @@
 """
 Created on Wed Feb 26 15:13:00 2020
 
-@author: luca,paul
+@author: luca Kiener,paul Grandjean
+
 """
 
 from sklearn.linear_model import LinearRegression
